@@ -1,0 +1,2 @@
+Requirements:
+Qt5
