@@ -39,7 +39,7 @@
 #include "bandplan.h"
 #include "bookmarks.h"
 #include "dxc_spots.h"
-#include <volk/volk.h>
+#include "my_volk.h"
 
 Q_LOGGING_CATEGORY(plotter, "plotter")
 
